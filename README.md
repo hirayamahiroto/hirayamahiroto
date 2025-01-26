@@ -3,8 +3,7 @@
 <p align="center">
   <a href="https://x.com/hirotobeat"><img src="https://img.shields.io/twitter/follow/hirotobeat?label=Twitter&logo=twitter&style=flat" alt="Twitter"></a>
   <a href="https://hirotobeat.com"><img src="https://img.shields.io/badge/Website-hirotobeat.com-blue?style=flat&logo=google-chrome" alt="Website"></a>
-  <a href="https://hirotobeat.vercel.app"><img src="https://img.shields.io/badge/Portfolio-hirotobeat.vercel.app-blue?style=flat&logo=vercel" alt="Portfolio"></a>
-  <a href="https://github.com/hirayamahiroto"><img src="https://img.shields.io/github/followers/hirayamahiroto?label=follow&logo=github&style=flat" alt="Github"></a>
+  <a href="https://hirotobeat.vercel.app"><img src="https://img.shields.io/badge/Portfolio-hirotobeat.vercel.app-blue?style=flat&logo=vercel" alt="hirotobeat Tech blog"></a>
 </p>
 
 <p align="left">
